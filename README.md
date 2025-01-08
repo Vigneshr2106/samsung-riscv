@@ -26,15 +26,15 @@ This demonstrates the process of compiling and running a program as well as how 
 
 This image displays the disassembled assembly code of a compiled C program, showing the instructions generated for the RISC-V instruction set architecture.
 
-<main>: Contains the main logic of the program.
+main: Contains the main logic of the program.
   
 Instructions for initializing the stack pointer (sp), performing arithmetic operations, and function calls like printf.
 
-<atexit>:Responsible for registering cleanup functions to be executed at the program's termination.
+atexit:Responsible for registering cleanup functions to be executed at the program's termination.
 
 Includes simple move (mv) and jump (j) instructions.
 
-<exit>: Final cleanup and termination routine.
+exit: Final cleanup and termination routine.
 Invokes any registered functions for resource deallocation and system restoration.
 
 
