@@ -13,3 +13,4 @@ First Execution: The executable is run, calculating the sum of numbers from 1 to
 Recompilation and Second Execution: The program is recompiled, and the executable is run again, this time calculating the sum of numbers from 1 to 9535, which is displayed as 45462880.
 
 This demonstrates the process of compiling and running a program as well as how program input/output changes based on different parameters.
+
