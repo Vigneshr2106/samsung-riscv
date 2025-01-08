@@ -19,6 +19,11 @@ This demonstrates the process of compiling and running a program as well as how 
 
 # Task 2
 
+![WhatsApp Image 2025-01-08 at 19 58 23_1a38d671](https://github.com/user-attachments/assets/378f72fb-1e22-435e-8d33-4df218973b41)
+
+![WhatsApp Image 2025-01-08 at 19 58 25_abc91aec](https://github.com/user-attachments/assets/84659a75-126b-43cf-91a2-4d15a343108e)
+
+
 This image displays the disassembled assembly code of a compiled C program, showing the instructions generated for the RISC-V instruction set architecture.
 
 <main>: Contains the main logic of the program.
@@ -31,3 +36,5 @@ Includes simple move (mv) and jump (j) instructions.
 
 <exit>: Final cleanup and termination routine.
 Invokes any registered functions for resource deallocation and system restoration.
+
+
